@@ -1,2 +1,10 @@
 # devops-docs
-DevOps PR9 documentation
+
+Учебный репозиторий практической работы № 9: Pylint, MkDocs, GitHub Actions и GitHub Pages.
+
+- исходники документации: `docs/`;
+- конфигурация MkDocs: `mkdocs.yml`;
+- CI: `.github/workflows/quality.yml`;
+- публикация: `.github/workflows/pages.yml`.
+
+Каталог `site/` является результатом сборки и не хранится в Git.
